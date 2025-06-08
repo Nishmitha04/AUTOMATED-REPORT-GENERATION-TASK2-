@@ -38,3 +38,4 @@ CSV Module: For reading structured tabular data from a .csv file.
 ReportLab: A robust library for generating PDF files programmatically, enabling customization of layouts and formatting.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/94bb8147-accf-4645-87f9-7247e35c376e)
